@@ -7,9 +7,3 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-#Runtime Data
-pids
-*.pids
-*.seed
-*.pid.lock
-
